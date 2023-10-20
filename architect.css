@@ -1,0 +1,193 @@
+.header{
+    position: fixed;
+    top: 0px;
+    background-color: white;
+    width: 100%;
+    height: 30px;
+    color: black;
+    font-size: 13px;
+    
+}
+.span1{
+    letter-spacing: 5px;
+    
+}
+.span2{
+    word-spacing: 20px;
+    margin-left: 690px;
+}
+.middle{
+    word-spacing: 0px;
+    position: absolute;
+    top:300px ;
+    left: 390px;
+}
+.image1{
+    position: relative;
+
+}
+.br2 {
+    background-color:rgba(0, 0, 0, 0.592);
+    color: white;
+    font-size: 28px;
+    letter-spacing: 1px;
+  
+
+}
+.ar2{
+    color: white;
+    font-size: 25px;
+    letter-spacing: 3px;
+
+}
+.project {
+    position: absolute;
+    top: 609.5px;
+    background-color: white;
+    color:black;
+    width: 100%;
+    height: 90px;
+}
+.project1 {
+    position: relative;
+    top:90px;
+    background-color: white;
+    width: 100%;
+    height: 360px;
+}
+.summer {
+    position: absolute;
+    top: 0px;
+    color: white;
+    background-color: black;
+    width: 85px;
+    height: 21px;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-left: 14px;
+}
+ .brick {
+    position: absolute;
+    top: 0px;
+    color: white;
+    background-color: black;
+    width: 70px;
+    height: 21px;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-left: 14px;}
+.barn {
+    position: absolute;
+    top: 0px;
+    color: white;
+    background-color: black;
+    width: 60px;
+    height: 21px;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-left: 14px;}
+.renovated {
+    position: absolute;
+    top: 0px;
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 21px;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-left: 14px;}
+
+.summer2 {
+    position: absolute;
+    top: 0px;
+    color: white;
+    background-color: black;
+    width: 80px;
+    height: 21px;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-left: 14px;
+}
+.brick2 {
+    position: absolute;
+    top: 0px;
+    color: white;
+    background-color: black;
+    width: 70px;
+    height: 21px;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-left: 14px;}
+.barn2 {
+    position: absolute;
+    top: 0px;
+    color: white;
+    background-color: black;
+    width: 60px;
+    height: 21px;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-left: 14px;}
+.renovated2 {
+    position: absolute;
+    top: 0px;
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 21px;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-left: 14px;}
+.about{
+    background-color: white;
+    color: black;
+    position: relative;
+    top: 70px;
+    width: 100%;
+    height: 50px;
+}
+.john {position: relative;
+    background-color: white;
+    top: 70px;
+    width:100%;
+    height: 360px;
+
+}
+.lorem{
+    font-size: 13px;
+    position: relative;
+    top: 30px;
+}
+.contact{background-color: white;
+    color: black;
+    position: relative;
+    top: 70px;
+    width: 100%;
+    height: 50px;
+
+}
+.let{background-color: white;
+    color: black;
+    position: relative;
+    font-size: 13px;
+    top: 50px;
+    width: 100%;
+    height: 220px;
+
+}
+.footer{
+    position: relative;
+    top: 0px;
+    text-align: center;
+    font-size: 12px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 40px;
+    padding-top: 30px;
+    margin-top: 0px;
+}
+ 
+
+
+
